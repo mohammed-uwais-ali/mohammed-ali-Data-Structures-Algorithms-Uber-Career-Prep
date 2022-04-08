@@ -30,6 +30,7 @@ public class part3{
 			return -1;
 		}
 		
+	
 		int temp = myList.get(0);
 		myList.remove(0);
 		size--;
