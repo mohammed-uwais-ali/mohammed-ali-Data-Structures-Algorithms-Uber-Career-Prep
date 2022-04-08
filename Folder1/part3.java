@@ -25,6 +25,7 @@ public class part3{
 		size++;
 	}
 	
+	
 	public int pop() {
 		if(size <= 0) {
 			return -1;
