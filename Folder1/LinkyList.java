@@ -110,6 +110,12 @@ public class LinkyList{
 		
 		
 	}
+	
+	public static void main(String[] args) {
+		
+	}
+	
+	
    
 //	public void insert(int index, Node newNode) {
 //		if(index >= size) {
