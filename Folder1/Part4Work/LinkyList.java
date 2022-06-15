@@ -1,3 +1,4 @@
+package Part4Work;
 public class LinkyList {
 	public Node head;
 //	public Node tail; //would need a tail for a palindrome
@@ -9,7 +10,7 @@ public class LinkyList {
 	}
 
 	// using Node Class to implement LinkedList
-	class Node {
+	static class Node {
 		int data;
 		Node next;
 
