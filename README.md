@@ -1,7 +1,6 @@
-# mohammed-uwais-ali-Uber-Career-Prep-Homework-Mohammed-Ali
 # Algorithms and Data Structures Uber Career Prep Fellowship
 
-Welcome to the "Algorithms and Data Structures" GitHub repository! This repository contains a collection of code implementations for various algorithms and data structures in Java. Whether you are a beginner looking to learn more about algorithms and data structures or an experienced developer brushing up on your knowledge, the following 
+Welcome to the "Algorithms and Data Structures" GitHub repository! This repository contains a collection of code implementations for various algorithms and data structures in Java. Whether you are a beginner looking to learn more about algorithms and data structures or an experienced developer brushing up on your knowledge, I hope that my implementations can help you learn and understand.  
 
 
 ## Introduction
@@ -44,7 +43,7 @@ Some of the data structures available in this repository are:
 
 
 ## Unit Tests
-
+Unit tests are crucial to check if your code works the way you want it to + allows for debugging
 Alongside this, you can first hand see how valuable it is to write unit tests to ensure code accuracy and code quality
 
 Happy coding! 🚀
